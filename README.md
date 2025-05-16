@@ -30,8 +30,4 @@ DDoS_Detection_App/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/DDoS_Detection_App.git
-cd DDoS_Detection_App
+###Clone the Repository

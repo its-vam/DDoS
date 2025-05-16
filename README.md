@@ -28,6 +28,5 @@ DDoS_Detection_App/
 
 ---
 
-## 🚀 Getting Started
-
-###Clone the Repository
+## Getting Started
+Clone the Repository
